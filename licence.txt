@@ -1,0 +1,35 @@
+      Agchive Class for python
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~
+      License for use and distribution
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      Agchive Copyright (C) 2014 Adam Grassart.
+
+      Agchive.py is distributed under the GNU LGPL license
+
+      Notes: 
+        You can use Agchive.py on any computer, including a computer in a commercial 
+        organization. You don't need to register or pay for Agchive.py.
+
+	!!! -> Agchive.py use 7z.exe and unrar.exe, read licenses for more informations
+	7z.exe lincence : app/7za/license.txt
+	unrar.exe lincence : app/unrar/license.txt
+
+	-- for commecial use, you can delete unrar.exe in app/unrar/ folder --
+
+
+      GNU LGPL information
+      --------------------
+
+        This library is free software; you can redistribute it and/or
+        modify it under the terms of the GNU Lesser General Public
+        License as published by the Free Software Foundation; either
+        version 2.1 of the License, or (at your option) any later version.
+
+        This library is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+        Lesser General Public License for more details.
+
+        You can receive a copy of the GNU Lesser General Public License from 
+        http://www.gnu.org/
